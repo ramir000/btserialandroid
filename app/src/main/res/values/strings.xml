@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReactionLight</string>
+    <string name="title">Título</string>
+
+    <string name="action_save">Guardar</string>
+    <string name="title_activity_detail">Nueva Oportunidad</string>
+
+    <!-- Strings de diálogo personalizado -->
+    <string name="info_text">Delay: 0.00 min 0.99 ms max. Limite: 0.00 = infinito</string>
+    <string name="nombre_input">Nombre</string>
+    <string name="PodId">Para Nª</string>
+    <string name="Timelimit">Limite</string>
+    <string name="Delay">Delay</string>
+    <string name="entrar_boton">ENTRAR</string>
+    <string name="cliente_label">Cliente</string>
+    <string name="producto_label">Producto</string>
+    <string name="fecha_label">Fecha</string>
+    <string name="prioridad_label">Prioridad</string>
+    <string name="notas_label">Notas</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="nombre_label">Nombre</string>
+    <string name="description_hint">Descripcion</string>
+    <string name="description_label">Descripcion</string>
+</resources>
